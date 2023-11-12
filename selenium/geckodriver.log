@@ -1,0 +1,20 @@
+1694665065112	geckodriver	INFO	Listening on 127.0.0.1:19180
+1694665068015	mozrunner::runner	INFO	Running command: "C:\\Users\\choiy\\.cache\\selenium\\firefox\\win64\\117.0.1\\firefox.exe" "--marionette" "--remote-debuggin ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\choiy\\AppData\\Local\\Temp\\rust_mozprofileNRykCb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694665069680	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694665069809	Marionette	INFO	Listening on port 19200
+WebDriver BiDi listening on ws://127.0.0.1:19181
+Read port: 19200
+1694665070151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:19181/devtools/browser/3395d2ae-16f7-4084-8007-7b8db2faf14a
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:17
+Cz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:437:134
+Dz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:437:111
+
+1694665241780	Marionette	INFO	Stopped listening on port 19200
+Dynamically enable window occlusion 1
